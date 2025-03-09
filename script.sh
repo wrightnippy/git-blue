@@ -8,3 +8,5 @@ wget https://github.com/startbootstrap/startbootstrap-creative/archive/gh-pages.
 unzip gh-pages-zip
 cp -r startbootstrap-creative-gh pages/* /var/www/html/
 echo "tom"
+My name is Wright
+add line
