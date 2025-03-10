@@ -1,8 +1,8 @@
 resource "aws_s3_bucket" "gold" {
-  bucket = "my-tf-test-bucket"
+  bucket = "my-tf-test-silver"
 
   tags = {
-    Name        = "My bucket"
+    Name        = "My silver"
     Environment = "Dev"
   }
 }
